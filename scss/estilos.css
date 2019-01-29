@@ -1,0 +1,23 @@
+.texto-blanco {
+  color: white; }
+
+.texto-blanco:hover {
+  text-shadow: 2px 2px 13px #8E8C8C !important; }
+
+.bg-gris {
+  background-color: #e9ecef; }
+
+i {
+  font-size: 1.5rem; }
+
+.form-etiqueta {
+  border-radius: 3rem 0 0 3rem; }
+
+.form-ingresar {
+  border-radius: 0 3rem 3rem 0; }
+
+@media (max-width: 768px) {
+  .btn-nav:hover {
+    background-color: #6c757d82; } }
+
+/*# sourceMappingURL=estilos.css.map */
